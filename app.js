@@ -1,6 +1,6 @@
 let novoNumeroAleatorio = [];
 
-let quantidadeAdvinhar = 100;
+let quantidadeAdvinhar = 50;
 
 let secreto = parseInt(Math.random() * quantidadeAdvinhar + 1);
 
